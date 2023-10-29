@@ -1,2 +1,2 @@
 # HangMan
-# AiCore
+AICore
